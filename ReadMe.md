@@ -10,7 +10,7 @@
 
 4. 完成实验报告
 
-提示：考虑到训练时间，可以只使用1/10 的数据
+提示：training set of 60,000 examples, and a test set of 10,000 examples.考虑到训练时间，可以只使用1/10 的数据
 
 备注：MNIST数据集可直接网上下载。
 
@@ -21,3 +21,5 @@ http://yann.lecun.com/exdb/mnist/
 参考：
 
 https://www.cnblogs.com/gshang/p/13022239.html
+
+http://anders.wang/makeyourown-neural-network-python/
